@@ -1,6 +1,6 @@
 # Medical_History #node_js #Mysql
 A Personal Medical history Tracking system.
----Features---
+**Features**
 - General Information regarding the patient. 
 - Ability to form Family Groups.
 - Tracking Hereditary diseases.
